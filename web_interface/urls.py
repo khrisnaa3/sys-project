@@ -20,5 +20,8 @@ from web_app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
-    path('execute/', views.exec)
+    path('execute/', views.exec),
+    path('execute5/', views.exec5),
+    path('execute2/', views.exec2),
+    path('execute1/', views.exec1),
 ]
