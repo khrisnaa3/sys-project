@@ -1,1 +1,1 @@
-echo "stef" | sudo -S sh mousepoll.sh
+echo "stef" | sudo -S sh /home/stef/Documents/mousepoll.sh
